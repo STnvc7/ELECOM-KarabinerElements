@@ -1,1 +1,3 @@
 # ELECOM-KarabinerElements
+
+ELECOM TK-FCM107KBKをmacOSで無理やり使うためのKarabiner Elementsのルールスクリプト
